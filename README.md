@@ -1,2 +1,2 @@
 # WanderLens
-a Tourist Image Sharing platform
+A Tourist Image Sharing platform
